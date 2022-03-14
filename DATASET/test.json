@@ -1,4 +1,5 @@
-  [
+{
+  "test" : [
     {"category": "A", "amount": 28},
     {"category": "B", "amount": 55},
     {"category": "C", "amount": 43},
@@ -8,4 +9,5 @@
     {"category": "G", "amount": 19},
     {"category": "H", "amount": 87}
   ]
+}
 
